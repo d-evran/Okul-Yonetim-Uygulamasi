@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Didem\\source\\repos\\01-GOLDENMADE\\Görev 6_SON_Düzenlenmis\\OkulYonetimUygulamasi_G023_Didem\\OkulYonetimUygulamasi_G023\\OgrenciYonetim_R3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Didem\\source\\repos\\01-GOLDENMADE\\Görev 6_SON_Düzenlenmis\\OkulYonetimUygulamasi_G023_Didem\\OkulYonetimUygulamasi_G023\\OgrenciYonetim_R3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Didem\\source\\repos\\01-GOLDENMADE\\Görev 6_SON_Düzenlenmis\\OkulYonetimUygulamasi_G023_Didem\\OkulYonetimUygulamasi_G023\\OgrenciYonetim_R3.csproj",
+        "projectName": "OgrenciYonetim_R3",
+        "projectPath": "C:\\Users\\Didem\\source\\repos\\01-GOLDENMADE\\Görev 6_SON_Düzenlenmis\\OkulYonetimUygulamasi_G023_Didem\\OkulYonetimUygulamasi_G023\\OgrenciYonetim_R3.csproj",
+        "packagesPath": "C:\\Users\\Didem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Didem\\source\\repos\\01-GOLDENMADE\\Görev 6_SON_Düzenlenmis\\OkulYonetimUygulamasi_G023_Didem\\OkulYonetimUygulamasi_G023\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Didem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

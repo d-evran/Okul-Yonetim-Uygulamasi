@@ -1,0 +1,32 @@
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.exe
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.deps.json
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.runtimeconfig.json
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.runtimeconfig.dev.json
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.dll
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\ref\OgrenciYonetim_R2.dll
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.pdb
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.csproj.AssemblyReference.cache
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.AssemblyInfoInputs.cache
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.AssemblyInfo.cs
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.csproj.CoreCompileInputs.cache
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.dll
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\ref\OgrenciYonetim_R2.dll
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.pdb
+C:\Users\Didem\Desktop\Bugün Nilüferden gelen\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.genruntimeconfig.cache
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.exe
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.deps.json
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.runtimeconfig.json
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.runtimeconfig.dev.json
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.dll
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\ref\OgrenciYonetim_R2.dll
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R2.pdb
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.csproj.AssemblyReference.cache
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.AssemblyInfoInputs.cache
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.AssemblyInfo.cs
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.csproj.CoreCompileInputs.cache
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.dll
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\ref\OgrenciYonetim_R2.dll
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.pdb
+C:\Users\niluf\OneDrive\Masaüstü\SilikonMade\7.Hafta\OkulYonetim_SonHali\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R2.genruntimeconfig.cache

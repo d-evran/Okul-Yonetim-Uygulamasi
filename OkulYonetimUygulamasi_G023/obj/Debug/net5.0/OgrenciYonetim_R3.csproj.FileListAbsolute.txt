@@ -1,0 +1,48 @@
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.exe
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.deps.json
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.runtimeconfig.json
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.dll
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\ref\OgrenciYonetim_R3.dll
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.pdb
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.csproj.AssemblyReference.cache
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.dll
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\ref\OgrenciYonetim_R3.dll
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.pdb
+C:\Users\Siliconmade Academy\Desktop\OkulYonetimUygulamasi_G023_R2\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.genruntimeconfig.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.exe
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.deps.json
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.runtimeconfig.json
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.runtimeconfig.dev.json
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\ref\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.pdb
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.csproj.AssemblyReference.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.AssemblyInfoInputs.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.AssemblyInfo.cs
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.csproj.CoreCompileInputs.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\ref\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.pdb
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Hocanin Düzelttigi\OkulYonetimUygulamasi_G023_R Sinif\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.genruntimeconfig.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.exe
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.deps.json
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.runtimeconfig.json
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.runtimeconfig.dev.json
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\ref\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\bin\Debug\net5.0\OgrenciYonetim_R3.pdb
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.csproj.AssemblyReference.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.AssemblyInfoInputs.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.AssemblyInfo.cs
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.csproj.CoreCompileInputs.cache
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\ref\OgrenciYonetim_R3.dll
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.pdb
+C:\Users\Didem\source\repos\01-GOLDENMADE\Görev 6_SON_Düzenlenmis\OkulYonetimUygulamasi_G023_Didem\OkulYonetimUygulamasi_G023\obj\Debug\net5.0\OgrenciYonetim_R3.genruntimeconfig.cache

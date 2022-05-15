@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRPP0VEGvYUkeAZzmklHuL/UOqh5vmnT/gBwXiA90o/KaDtbX9SigCzcH0uaQmZ8VCajJWBViddaqruKeXy+QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Didem\\source\\repos\\01-GOLDENMADE\\Görev 6_SON_Düzenlenmis\\OkulYonetimUygulamasi_G023_Didem\\OkulYonetimUygulamasi_G023\\OgrenciYonetim_R3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Didem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
